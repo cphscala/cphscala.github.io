@@ -5,8 +5,8 @@ title: CPHScala - History
 
 After each meeting the slides and relevant notes are stored here.
 
-28th of June 2013
------------------
+Meetup #6: 28th of June 2013
+----------------------------
 
 The following talks were held
 
