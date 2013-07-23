@@ -23,3 +23,13 @@ After each meetup we collect a list of topics that the attendees would like to s
 - Monads
 - Akka
 - Scala Macros
+- Scala Play vs. Lift
+- Troubleshooting Scala crap
+- "I don't understand" - how to avoid too-hard idioms
+- Weakening types/guarantees - Optimizing to less-idiomatic Scala.
+- Refactor to Scalaisms
+- Monad Transformers
+- Micro-benchmarking
+- Scala Compiler Plugins
+- Intro to Scalaz
+- Intro to pattern matching
