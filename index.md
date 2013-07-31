@@ -10,18 +10,24 @@ Events are scheduled using Lanyrd so head over to the [CPH Scala profile](http:/
 Next Meetup
 -----------
 
-Some time in august
+The next meetup will be on the 5th of September. 
+
+- Lightweight Program Verification Using Dependent Types by Mads Hartmann Jensen
+- Akka by Søren Mathiasen 
+- Micro-benchmarking by Chris Vest
+- Jan Krag (No topic chosen yet)
+
+Head over to the [event](http://lanyrd.com/2013/cph-scala-meetup-7/) and let us know if you're attending.
+
 
 Topics we would like to hear about
 ----------------------------------
 
 After each meetup we collect a list of topics that the attendees would like to see a talk about. If you feel like giving a talk, please consider one of the following topics
 
-- Lightweight Program Verification Using Dependent Types
 - Automatic Code Analysis of Scala Code
 - Serialization
 - Monads
-- Akka
 - Scala Macros
 - Scala Play vs. Lift
 - Troubleshooting Scala crap
@@ -29,7 +35,6 @@ After each meetup we collect a list of topics that the attendees would like to s
 - Weakening types/guarantees - Optimizing to less-idiomatic Scala.
 - Refactor to Scalaisms
 - Monad Transformers
-- Micro-benchmarking
 - Scala Compiler Plugins
 - Intro to Scalaz
 - Intro to pattern matching
