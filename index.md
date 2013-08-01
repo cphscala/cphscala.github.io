@@ -13,7 +13,6 @@ Next Meetup
 The next meetup will be on the 5th of September. 
 
 - Lightweight Program Verification Using Dependent Types by Mads Hartmann Jensen
-- Akka by Søren Mathiasen 
 - Micro-benchmarking by Chris Vest
 - Jan Krag (No topic chosen yet)
 
