@@ -14,7 +14,7 @@ The next meetup will be on the 5th of September.
 
 - Lightweight Program Verification Using Dependent Types by Mads Hartmann Jensen
 - Micro-benchmarking by Chris Vest
-- Jan Krag (No topic chosen yet)
+- Introduction to Pattern Matching by Jan Krag
 
 Head over to the [event](http://lanyrd.com/2013/cph-scala-meetup-7/) and let us know if you're attending.
 
@@ -36,4 +36,3 @@ After each meetup we collect a list of topics that the attendees would like to s
 - Monad Transformers
 - Scala Compiler Plugins
 - Intro to Scalaz
-- Intro to pattern matching
