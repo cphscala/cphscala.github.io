@@ -10,13 +10,10 @@ Events are scheduled using Lanyrd so head over to the [CPH Scala profile](http:/
 Next Meetup
 -----------
 
-The next meetup will be on the 5th of September. 
+The next meetup will be on the 8th of October. 
 
-- Lightweight Program Verification Using Dependent Types by Mads Hartmann Jensen
-- Micro-benchmarking by Chris Vest
-- Introduction to Pattern Matching by Jan Krag
 
-Head over to the [event](http://lanyrd.com/2013/cph-scala-meetup-7/) and let us know if you're attending.
+Head over to the [event](http://lanyrd.com/2013/cph-scala-meetup-8/) and let us know if you're attending.
 
 
 Topics we would like to hear about

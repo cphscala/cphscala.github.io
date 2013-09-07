@@ -5,6 +5,15 @@ title: CPHScala - History
 
 After each meeting the slides and relevant notes are stored here.
 
+Meetup #7: 5th of September 2013
+--------------------------------
+
+The following talks were held
+
+- Dependent Types by [Mads Hartmann Jensen](http://twitter.com/mads_hartmann)
+- Micro-benchmarking by [Christian Vest](http://twitter.com/chvest)
+- Introduction to Pattern Matching by [Jan Krag](http://twitter.com/jankrag). [Slides](http://www.slideshare.net/jankrag/intro-to-pattern-matching-in-scala)
+
 Meetup #6: 28th of June 2013
 ----------------------------
 
